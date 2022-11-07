@@ -1,17 +1,65 @@
-# Task 1:
+
+# Task-1
+
 The application demonstrates the REST API using Spring boot and MongoDB. The application demonstrates all the database operations like Create, Read, Update and Delete.
-----
-### BASE URL - <http://localhost/api/v1/> ###
 
-Markup : ## Routes ##
-* GET /-> fetches all the server objects from the DB
-* GET /?server=<server_id> -> fetches the server object corresponding to server_id
-* POST /=> Body ("name", "id", "language", "framework") -> Adds an object to the DB with the provided details
-* DELETE /?server=<server_id> -> Removes the server object corresponding to server_id from the DB
-* GET /find?name=-> Find the server whose names contain this "name"
-* PUT / -> Update the details of an object of the DB
 
-----
+## 🚀 About Me
+* Abhimanyu Kumar
+* Computer Science @ CUTM
 
-### Description ###
-Spring Boot
+
+### Tools and Technologies Used
+* Spring Boot 2.7.5
+* MongoDB
+* Spring Tools Suite
+* Java 8
+* Postman
+
+### Dependencies Used
+* Spring Web
+* Lombok
+* Spring Data MongoDB
+* Spring Boot Dev Tools
+
+> **_NOTE:_**  This project is based upon MVC architecture.
+
+
+## Start MongoDB
+
+To run mongoDB server. Type mongod in the terminal.
+
+```bash
+  mongod
+```
+
+### Features
+### `Insert Data`
+* The server object is passed as a json-encoded message body.
+
+Base URL - http://localhost:8080/api/v1/
+#### POST API
+
+#### Insert student details 
+
+```http
+  POST /addStudent
+```
+
+
+## Code
+
+```java
+//Add student 
+@PostMapping("/addStudent")
+public String saveBook(@RequestBody Student student) {
+	repository.save(student);
+	return "Added book with id : " + student.getId();
+}
+```
+
+
+## Screenshots
+
+![Insert Data Screenshot](./Screenshots/insertData.jpg)
+
