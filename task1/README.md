@@ -7,6 +7,9 @@ The application demonstrates the REST API using Spring boot and MongoDB. The app
 ## 🚀 About Me
 * Abhimanyu Kumar
 * Computer Science Student @ CUTM
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyu-k-00b40611a/)
+
 
 
 ### Tools and Technologies Used
