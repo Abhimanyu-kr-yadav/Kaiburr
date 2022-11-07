@@ -1,7 +1,7 @@
 
 # Task-1
 
-The application demonstrates the REST API using Spring boot and MongoDB. The application demonstrates all the database operations like Create, Read, Update and Delete.
+The application demonstrates the REST API using Spring boot and MongoDB. It demonstrates all the database operations like Create, Read, Update and Delete.
 
 
 ## 🚀 About Me
