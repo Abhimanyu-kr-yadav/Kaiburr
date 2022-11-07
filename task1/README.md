@@ -3,7 +3,7 @@ Screenshots of POSTman depicting the testing of different routes with their resp
 ----
 ###BASE URL - <http://localhost/api/v1/>
 
-###Routes
+Markup : ## Routes ##
 * ###GET /-> fetches all the server objects from the DB
 * ###GET /?server=<server_id> -> fetches the server object corresponding to server_id
 * ###POST /=> Body ("name", "id", "language", "framework") -> Adds an object to the DB with the provided details
