@@ -1,7 +1,7 @@
 # Task 1:
 Screenshots of POSTman depicting the testing of different routes with their respective responses are in the "screenshots" folder
 ----
-###BASE URL - <http://localhost/api/v1/>
+## BASE URL - <http://localhost/api/v1/> ##
 
 Markup : ## Routes ##
 * ###GET /-> fetches all the server objects from the DB
