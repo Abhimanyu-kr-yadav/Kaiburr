@@ -59,7 +59,7 @@ public String saveBook(@RequestBody Student student) {
 ```
 
 
-## Screenshots
+## Screenshot
 
 ![Insert Data Screenshot](./Screenshots/insertData.jpg)
 
