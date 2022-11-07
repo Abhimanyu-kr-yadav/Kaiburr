@@ -1,10 +1,10 @@
 # kaiburr-task
 * Abhimanyu Kumar
 
-### Tasks done - 1 and 4 ###
+### Tasks done - 1 ###
 ----
 #### Task 1: ####
-Created the Java (Spring Boot) Rest API
+Created the Java Rest API
 
 Technologies Used:
 * Spring Boot - Server side coding
@@ -14,13 +14,5 @@ Technologies Used:
 More Comprehensive documentation is provided in the task 1 folder of this repo
 
 ----
-#### Task 4: ####
-Created Web UI Form
 
-Technologies Used:
-* ReactJs
-* HTML, CSS, JS
-* Bootstrap
-
-More Comprehensive documentation is provided in the task 4 folder of this repo
 
