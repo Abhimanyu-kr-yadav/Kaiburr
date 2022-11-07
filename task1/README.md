@@ -6,7 +6,7 @@ The application demonstrates the REST API using Spring boot and MongoDB. The app
 
 ## 🚀 About Me
 * Abhimanyu Kumar
-* Computer Science @ CUTM
+* Computer Science Student @ CUTM
 
 
 ### Tools and Technologies Used
