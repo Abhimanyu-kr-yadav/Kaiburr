@@ -1,5 +1,5 @@
 # Task 1:
-Screenshots of POSTman depicting the testing of different routes with their respective responses are in the "screenshots" folder
+The application demonstrates the REST API using Spring boot and MongoDB. The application demonstrates all the database operations like Create, Read, Update and Delete.
 ----
 ### BASE URL - <http://localhost/api/v1/> ###
 
